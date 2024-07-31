@@ -6,7 +6,7 @@ The Car Booking System is a Java-based application that allows users to book car
 
 ### Technologies Used
 - Java Development Kit (JDK) version 11 or higher
-- Maven build tool
+- NetBeans IDE
 
 
 ## Features
